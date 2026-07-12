@@ -1,0 +1,13 @@
+2026-06-28T14:02:11Z INFO  gemini-tales.agent session=st-4821 Starting story session for child profile "Léa (age 6)"
+2026-06-28T14:02:11Z INFO  gemini-tales.agent session=st-4821 Loading preferences: language=fr, themes=[animals, space]
+2026-06-28T14:02:12Z INFO  gemini-tales.llm   session=st-4821 POST generativelanguage.googleapis.com model=gemini-2.0-flash tokens_in=812 tokens_out=644 latency_ms=1418
+2026-06-28T14:02:14Z INFO  gemini-tales.agent session=st-4821 Story segment 1/5 delivered (title: "Le lapin astronaute")
+2026-06-28T14:02:41Z INFO  gemini-tales.agent session=st-4821 Child voice input transcribed (2.4s audio): "et après il rencontre une étoile?"
+2026-06-28T14:02:42Z INFO  gemini-tales.llm   session=st-4821 POST generativelanguage.googleapis.com model=gemini-2.0-flash tokens_in=1104 tokens_out=702 latency_ms=1522
+2026-06-28T14:02:44Z INFO  gemini-tales.agent session=st-4821 Story segment 2/5 delivered
+2026-06-28T14:05:59Z INFO  gemini-tales.agent session=st-4821 Session complete: 5 segments, 11 child interactions, duration 3m48s
+2026-06-28T14:05:59Z INFO  gemini-tales.store session=st-4821 Session summary persisted to Firestore collection=sessions doc=st-4821
+2026-06-28T16:44:03Z INFO  gemini-tales.agent session=st-4822 Starting story session for child profile "Marco (age 8)"
+2026-06-28T16:44:04Z INFO  gemini-tales.llm   session=st-4822 POST generativelanguage.googleapis.com model=gemini-2.0-flash tokens_in=795 tokens_out=688 latency_ms=1390
+2026-06-28T16:47:21Z INFO  gemini-tales.agent session=st-4822 Session complete: 4 segments, 7 child interactions, duration 3m17s
+2026-06-29T09:12:40Z INFO  gemini-tales.billing daily rollup 2026-06-28: sessions=38 llm_calls=214 tokens_total=412907 subscriptions_active=27

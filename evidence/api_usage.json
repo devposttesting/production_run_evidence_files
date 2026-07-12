@@ -1,0 +1,14 @@
+{
+  "product": "Gemini Tales",
+  "export": "gemini-api-usage",
+  "period": "2026-06-01/2026-06-30",
+  "generated_at": "2026-07-01T00:04:12Z",
+  "daily": [
+    {"date": "2026-06-26", "sessions": 31, "llm_requests": 176, "tokens_in": 148220, "tokens_out": 121904, "active_subscribers": 24},
+    {"date": "2026-06-27", "sessions": 35, "llm_requests": 198, "tokens_in": 160873, "tokens_out": 133671, "active_subscribers": 26},
+    {"date": "2026-06-28", "sessions": 38, "llm_requests": 214, "tokens_in": 171502, "tokens_out": 141405, "active_subscribers": 27},
+    {"date": "2026-06-29", "sessions": 33, "llm_requests": 187, "tokens_in": 152219, "tokens_out": 128101, "active_subscribers": 27},
+    {"date": "2026-06-30", "sessions": 41, "llm_requests": 232, "tokens_in": 183774, "tokens_out": 150992, "active_subscribers": 29}
+  ],
+  "month_totals": {"sessions": 1044, "llm_requests": 5891, "tokens_total": 9812440}
+}
