@@ -1,0 +1,6 @@
+payout_id,arrival_date,status,currency,gross_amount,fees,net_amount,charge_count
+po_1QxT8a2eZvKYlo2C,2026-06-06,paid,usd,412.50,12.26,400.24,19
+po_1QxT8b2eZvKYlo2C,2026-06-13,paid,usd,538.00,15.89,522.11,24
+po_1QxT8c2eZvKYlo2C,2026-06-20,paid,usd,655.25,19.32,635.93,31
+po_1QxT8d2eZvKYlo2C,2026-06-27,paid,usd,721.00,21.24,699.76,33
+po_1QxT8e2eZvKYlo2C,2026-07-04,paid,usd,804.75,23.66,781.09,38
